@@ -1,0 +1,18 @@
+.feedback__button {
+    margin: 10px;
+
+}
+
+.feedback__button::first-letter{
+    text-transform: uppercase;
+}
+
+.statistic__list {
+    list-style: none;
+    padding: 10px;
+}
+
+.statistic__item {
+    padding: 3px;
+    
+}
